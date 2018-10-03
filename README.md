@@ -1,2 +1,2 @@
 # DataScience
-Data Science Course
+Data Science Course 2
